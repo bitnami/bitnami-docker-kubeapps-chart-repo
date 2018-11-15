@@ -1,0 +1,4 @@
+version: '2'
+services:
+  kubeapps-chart-repo:
+    image: bitnami/kubeapps-chart-repo:1-scratch
