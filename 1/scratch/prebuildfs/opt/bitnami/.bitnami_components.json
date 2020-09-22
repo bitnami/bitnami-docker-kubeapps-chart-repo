@@ -1,0 +1,7 @@
+{
+    "kubeapps-chart-repo": {
+        "digest": "c232d7286d6bcb7cb97ed8b6bf585bc97211eba2eb793d266bd30b2ed193f649",
+        "type": "BLACKSMITH",
+        "version": "1.10.0"
+    }
+}
