@@ -1,3 +1,7 @@
+# DEPRECATION NOTICE
+
+Newer versions of [Kubeapps](https://github.com/bitnami/charts/tree/master/bitnami/kubeapps) don't require the kubeapps-chart-repo image. As a result, this image has been deprecated and will no longer be maintained nor updated. 
+
 # What is Kubeapps Chart Repo?
 
 > Kubeapps Chart Repo is one of the main components of Kubeapps, a Web-based application deployment and management tool for Kubernetes clusters.
